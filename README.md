@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **PHP, Symfony**
 
-- 📫 How to reach me **vyacheslav.voloshyn@gmail.com**
+- 📫 How to reach me **vyacheslav.voloshyn@gmail.com** | <a href="https://www.linkedin.com/in/vyacheslav-voloshyn-74ab3b194/"> Linkedin </a>
 
 ---
 
