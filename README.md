@@ -37,3 +37,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vyacheslav-voloshyn&show_icons=true&count_private=true&theme=radical" alt="Slava's GitHub Stats" width="500"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyacheslav-voloshyn&layout=compact&theme=radical" alt="Slava's Language Stats" width="380"/>
 </p>
+
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
