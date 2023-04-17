@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Slava</h1>
-<h3 align="center">Hi there! My name is Slava (Vyacheslav) and I'm currently living in Prague, Czech Republic. I studied AI at VŠE University and have been fascinated with programming ever since. I love working with code in all shapes and forms, and have experience in a wide range of programming languages. My journey started with PHP and Symfony, but I've since shifted my focus to JavaScript and Next.js. I'm constantly learning and exploring new technologies, and I believe that programming is a never-ending journey. When I'm not coding, am codding. I'm also a huge fan of music and enjoy attending concerts whenever I can. I'm always looking for new challenges and opportunities to grow as a developer. Feel free to check out my projects and get in touch if you'd like to collaborate on something cool!</h3>
+<h3 align="center">Hi there! My name is Slava (Vyacheslav) and I'm currently living in Prague, Czech Republic. I studied AI at VŠE University and have been fascinated with programming ever since. I love working with code in all shapes and forms, and have experience in a wide range of programming languages. 
+  
+  My journey started with PHP and Symfony, but I've since shifted my focus to JavaScript and Next.js. I'm constantly learning and exploring new technologies, and I believe that programming is a never-ending journey. 
+  
+  When I'm not coding, am codding.
+  
+  I'm always looking for new challenges and opportunities to grow as a developer. Feel free to check out my projects and get in touch if you'd like to collaborate on something cool!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vyacheslav-voloshyn&label=Profile%20views&color=0e75b6&style=flat" alt="vyacheslav-voloshyn" /> </p>
 
