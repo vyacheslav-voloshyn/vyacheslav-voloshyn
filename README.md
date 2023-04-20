@@ -43,14 +43,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 August 2022 - To: 17 April 2023
+From: 07 August 2022 - To: 18 April 2023
 
-Total Time: 586 hrs 42 mins
+Total Time: 591 hrs 19 mins
 
-PHP                        171 hrs 18 mins >>>>>>>------------------   29.20 %
-TypeScript                 146 hrs 4 mins  >>>>>>-------------------   24.90 %
-YAML                       75 hrs 42 mins  >>>----------------------   12.90 %
-Other                      75 hrs 28 mins  >>>----------------------   12.86 %
+PHP                        171 hrs 18 mins >>>>>>>------------------   28.97 %
+TypeScript                 150 hrs 25 mins >>>>>>-------------------   25.44 %
+YAML                       75 hrs 42 mins  >>>----------------------   12.80 %
+Other                      75 hrs 28 mins  >>>----------------------   12.76 %
 ```
 
 <!--END_SECTION:waka-->
