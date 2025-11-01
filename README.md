@@ -33,20 +33,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 August 2022 - To: 29 October 2025
+From: 07 August 2022 - To: 30 October 2025
 
-Total Time: 2,132 hrs 34 mins
+Total Time: 2,135 hrs 19 mins
 
-TypeScript                 1,099 hrs 6 mins>>>>>>>>>>>>>------------   51.54 %
-Other                      449 hrs 50 mins >>>>>--------------------   21.09 %
-PHP                        185 hrs 42 mins >>-----------------------   08.71 %
+TypeScript                 1,100 hrs 16 mins>>>>>>>>>>>>>------------   51.53 %
+Other                      449 hrs 50 mins >>>>>--------------------   21.07 %
+PHP                        185 hrs 42 mins >>-----------------------   08.70 %
 YAML                       106 hrs 4 mins  >------------------------   04.97 %
-JSON                       89 hrs 25 mins  >------------------------   04.19 %
-JavaScript                 38 hrs 50 mins  -------------------------   01.82 %
-Bash                       29 hrs 38 mins  -------------------------   01.39 %
-Markdown                   27 hrs 52 mins  -------------------------   01.31 %
+JSON                       89 hrs 45 mins  >------------------------   04.20 %
+JavaScript                 38 hrs 52 mins  -------------------------   01.82 %
+Bash                       29 hrs 47 mins  -------------------------   01.40 %
+Markdown                   27 hrs 57 mins  -------------------------   01.31 %
 Docker                     22 hrs 45 mins  -------------------------   01.07 %
-GraphQL                    12 hrs 26 mins  -------------------------   00.58 %
+GraphQL                    12 hrs 34 mins  -------------------------   00.59 %
 ```
 
 <!--END_SECTION:waka-->
